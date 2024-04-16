@@ -1,0 +1,26 @@
+{
+  "name": "carteiravacinacao2",
+  "version": "1.0.0",
+  "description": "This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).",
+  "main": "index.js",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native/metro-config": "^0.75.0-main",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "react": "^18.2.0",
+    "react-native": "^0.73.6",
+    "react-native-mask-text": "^0.14.2",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.30.1",
+    "react-test-renderer": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Mariano",
+  "license": "ISC",
+  "devDependencies": {
+    "reactotron-react-native": "^5.1.6"
+  }
+}
